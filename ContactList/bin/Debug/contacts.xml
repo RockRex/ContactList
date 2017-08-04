@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contacts>
+  <contact>
+    <contactName>小欧</contactName>
+    <contactSchoolName>湖南大学</contactSchoolName>
+    <contactAcademyName>电气</contactAcademyName>
+    <contactGrade>2003</contactGrade>
+    <contactClass>104</contactClass>
+    <contactMobileNumber>15807310001</contactMobileNumber>
+    <contactTelephoneNumber>88888888</contactTelephoneNumber>
+    <contactQqNumber>1234567</contactQqNumber>
+    <contactEmail>nowhere@gmail.com</contactEmail>
+    <contactAddress>长沙市开福区湘江世纪城</contactAddress>
+    <contactBlessingWords>天天开心</contactBlessingWords>
+  </contact>
+  <contact>
+    <contactName>张大军</contactName>
+    <contactSchoolName>石家庄铁道大学</contactSchoolName>
+    <contactAcademyName>信息学院</contactAcademyName>
+    <contactGrade>14</contactGrade>
+    <contactClass>1405</contactClass>
+    <contactMobileNumber>1234567890</contactMobileNumber>
+    <contactTelephoneNumber>0311-12345</contactTelephoneNumber>
+    <contactQqNumber>12345678</contactQqNumber>
+    <contactEmail>12345678@qq.com</contactEmail>
+    <contactAddress>石家庄市北二环东路17号</contactAddress>
+    <contactBlessingWords>共产主义万岁!</contactBlessingWords>
+  </contact>
+</contacts>

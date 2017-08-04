@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contacts>
+  <contact>
+    <contactName>Wan</contactName>
+    <contactSchoolName>师范学院</contactSchoolName>
+    <contactAcademyName>体育</contactAcademyName>
+    <contactGrade>2010</contactGrade>
+    <contactClass>04</contactClass>
+    <contactMobileNumber>15874987168</contactMobileNumber>
+    <contactTelephoneNumber>84849699</contactTelephoneNumber>
+    <contactQqNumber>4469460</contactQqNumber>
+    <contactEmail>jinglin_peng@126.com</contactEmail>
+    <contactAddress>中国</contactAddress>
+    <contactBlessingWords>Good Luck</contactBlessingWords>
+    <contactImage></contactImage>
+  </contact>
+</contacts>

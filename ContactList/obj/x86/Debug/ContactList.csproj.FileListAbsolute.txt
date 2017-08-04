@@ -1,0 +1,33 @@
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.AllContacts.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.ContactForm.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.FindingContacts.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.MainWindow.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.Properties.Resources.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.ResultsFound.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.exe
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.pdb
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.AddNewContactForm.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.EditContactForm.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.ViewContactForm.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\ContactList\ContactList\obj\x86\Debug\ContactList.Help.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.exe
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.pdb
+D:\WorkSpaces\C#program\ContactList\ContactList\bin\Debug\ContactList.exe
+D:\WorkSpaces\C#program\ContactList\ContactList\bin\Debug\ContactList.pdb
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.AddNewContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.AllContacts.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.ContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.EditContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.FindingContacts.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.Help.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.MainWindow.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.Properties.Resources.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.ResultsFound.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.ViewContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Debug\ContactList.csproj.GenerateResource.Cache

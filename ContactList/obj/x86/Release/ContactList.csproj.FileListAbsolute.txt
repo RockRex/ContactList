@@ -1,0 +1,16 @@
+D:\WorkSpaces\C#program\ContactList\ContactList\bin\Release\ContactList.exe
+D:\WorkSpaces\C#program\ContactList\ContactList\bin\Release\ContactList.pdb
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.AddNewContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.AllContacts.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.ContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.EditContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.FindingContacts.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.Help.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.MainWindow.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.Properties.Resources.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.ResultsFound.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.ViewContactForm.resources
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.csproj.GenerateResource.Cache
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.exe
+D:\WorkSpaces\C#program\ContactList\ContactList\obj\x86\Release\ContactList.pdb
